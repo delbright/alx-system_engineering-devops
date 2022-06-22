@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -FAm
+ ls -m --group-directories-first
